@@ -10,7 +10,7 @@ In this tutorial, we will learn how to create a simple Windows 11 Pro Virtual Ma
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure
-- Windows Remote Desktop
+- Windows Remote Desktop Connection
 
 <h2>Prequesite</h2>
 * You must already have an Azure account prior
@@ -33,34 +33,21 @@ In this tutorial, we will learn how to create a simple Windows 11 Pro Virtual Ma
 
 ![Step 1 vpn](https://github.com/Archie735/How-to-Create-a-Windows-11-Virtual-Machine/assets/150314129/5881d141-8d61-4c22-9307-3329f32fcd62)
 
+![Step 2 vpn](https://github.com/Archie735/How-to-Create-a-Windows-11-Virtual-Machine/assets/150314129/d6cab8f7-4c06-4d92-8636-4110acddee6d)
 
+* You can modify the resource group, virtual machine name, region, username, and password to your liking ;)
     
 <h3>Step 5: Review + Create then Click on Create</h3>
 Give it some time to create before heading on to the next step :)
 
-<h3>Step 6: 
-<h2>Actions and Observations</h2>
+<h3>Step 6: Connect to Windows 11 Virtual Machine</h3>
+    
+* On the virtual machine (Winterland) on the Overview tab, copy the Public IP address
+* On the search bar search for Remote Desktop Connection and click it  
+* Paste the Public IP address on the Computer bar
+* Then add the account and enter Username and Password for Winterland
+* Click on Connect
+* Click on Yes to continue
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Horray!!!! You are now logged in!!!!</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
