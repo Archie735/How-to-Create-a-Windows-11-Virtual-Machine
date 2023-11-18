@@ -1,36 +1,43 @@
-<p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
-</p>
 
 <p align="center">
-<img src="https://i.imgur.com/T2m0tzQ.mp4" alt="Windows 11 Pro"/>
+<img src="https://cdn.mos.cms.futurecdn.net/t22B2B44iJ4WP9WXsuN2sS-650-80.png" alt="Windows 11 Pro"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
-
+<h1>How to create a Windows 11 Pro Virtual Machine using Microsoft Azure</h1>
+In this tutorial, we will learn how to create a simple Windows 11 Pro Virtual Machine and log into it
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Microsoft Azure
+- Windows Remote Desktop
 
-<h2>Operating Systems Used </h2>
+<h2>Prequesite</h2>
+* You must already have an Azure account prior
 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h3>Step 1: Log in to <a href="www.portal.azure.com"> Microsoft Azure </a></h3>
+<h3>Step 2: On the search bar search for "Virtual Machine" and click on it</h3>
+<h3>Step 3: Click on "Create Azure Virtual Machine" </h3>
+<h3>Step 4: Fill in the information below ↓ </h3>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+    Subscription: Azure subscription 1
+    Resource group: Create new "Seasons"
+    Virtual machine name: Winterland
+    Region: (US) East US
+    Image: Windows 11 Pro, version 22H2 - x64 Gen 2
+    Size: Standard_D4s_v3 - 4vcpus, 16 GiB memory
+    Username: Winterwonderland
+    Password: Winteriscoming2
+    Confirm licensing
+<p>
+<img src="C:\Users\arche\Downloads\Step 1 vpn.jpg" alt="Step1"/>
+</p>
+    
+<h3>Step 5: Review + Create then Click on Create</h3>
+Give it some time to create before heading on to the next step :)
 
+<h3>Step 6: 
 <h2>Actions and Observations</h2>
 
 <p>
