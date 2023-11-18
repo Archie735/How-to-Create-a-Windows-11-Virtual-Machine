@@ -30,9 +30,10 @@ In this tutorial, we will learn how to create a simple Windows 11 Pro Virtual Ma
     Username: Winterwonderland
     Password: Winteriscoming2
     Confirm licensing
-<p>
-<img src="C:\Users\arche\Downloads\Step 1 vpn.jpg" alt="Step1"/>
-</p>
+
+![Step 1 vpn](https://github.com/Archie735/How-to-Create-a-Windows-11-Virtual-Machine/assets/150314129/5881d141-8d61-4c22-9307-3329f32fcd62)
+
+
     
 <h3>Step 5: Review + Create then Click on Create</h3>
 Give it some time to create before heading on to the next step :)
