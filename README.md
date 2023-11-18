@@ -33,7 +33,10 @@ In this tutorial, we will learn how to create a simple Windows 11 Pro Virtual Ma
 
 ![Step 1 vpn](https://github.com/Archie735/How-to-Create-a-Windows-11-Virtual-Machine/assets/150314129/5881d141-8d61-4c22-9307-3329f32fcd62)
 
+
 ![Step 2 vpn](https://github.com/Archie735/How-to-Create-a-Windows-11-Virtual-Machine/assets/150314129/d6cab8f7-4c06-4d92-8636-4110acddee6d)
+
+
 
 * You can modify the resource group, virtual machine name, region, username, and password to your liking ;)
     
@@ -49,5 +52,8 @@ Give it some time to create before heading on to the next step :)
 * Click on Connect
 * Click on Yes to continue
 
-<h2>Horray!!!! You are now logged in!!!!</h2>
+![Step 7 vpn](https://github.com/Archie735/How-to-Create-a-Windows-11-Virtual-Machine/assets/150314129/432ed440-37df-4db4-817a-b9174bc0b031)
+
+
+<h2>Horray!!!! You are now logged in!!!! 🥳</h2>
 
