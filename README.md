@@ -52,6 +52,9 @@ Give it some time to create before heading on to the next step :)
 * Click on Connect
 * Click on Yes to continue
 
+![Step 6 vpn](https://github.com/Archie735/How-to-Create-a-Windows-11-Virtual-Machine/assets/150314129/b6de1969-bde0-4a6f-b576-5d3e69ecb4d7)
+
+
 ![Step 7 vpn](https://github.com/Archie735/How-to-Create-a-Windows-11-Virtual-Machine/assets/150314129/432ed440-37df-4db4-817a-b9174bc0b031)
 
 
