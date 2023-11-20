@@ -46,7 +46,7 @@ Give it some time to create before heading on to the next step :)
 * On the virtual machine (Winterland) on the Overview tab, copy the Public IP address
 * On the search bar search for Remote Desktop Connection and click it  
 * Paste the Public IP address on the Computer bar
-* Then add the account and enter Username and Password for Winterland
+* Then click "Use a different account" and enter Username and Password for Winterland
 * Click on Connect
 * Click on Yes to continue
 
