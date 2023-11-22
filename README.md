@@ -43,7 +43,7 @@ Give it some time to create before heading on to the next step :)
 
 <h3>Step 6: Connect to Windows 11 Virtual Machine</h3>
     
-* On the virtual machine (Winterland) on the Overview tab, copy the Public IP address
+* On the virtual machine (Winterland)❄️ on the Overview tab, copy the Public IP address
 * On the search bar search for Remote Desktop Connection and click it  
 * Paste the Public IP address on the Computer bar
 * Then click "Use a different account" and enter Username and Password for Winterland
